@@ -1,5 +1,1 @@
-nernfner
-not ren
-ren
-raise not from nern
-wrnwrnfsn
+print('hello amigos')
